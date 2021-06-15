@@ -1,0 +1,39 @@
+body{
+    font-family: 'Speicial Elite', cursive;
+    background: #ffffff;
+}
+.header_div{
+
+    background: rgb(7, 248, 7);
+    color: #ce2700;
+    top:0;
+    padding:10px;
+   
+}
+.header_div img{
+    width: 70px;
+}
+.text_images_and_result{
+    background: rgb(250, 210, 216);
+    width: 500px;
+    border-radius: 30px;
+    padding: 40px;
+    
+    
+}
+.text_images_and_result img{
+    border-radius: 40px;
+    width: 300px;
+    margin:20px;
+    
+}
+b{
+    color: rgb(182, 3, 182);
+}
+span{
+    color: red;
+}
+
+.sperate{
+    margin-top:50px;
+}
